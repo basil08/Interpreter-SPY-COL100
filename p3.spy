@@ -1,0 +1,9 @@
+# unary program
+
+p = True
+q = not p
+r = q
+
+x = 10
+y = - x
+z = - y
